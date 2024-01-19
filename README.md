@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Z</h1>
-<h3 align="center">Python/C++/Pine Script in Trading/Financial</h3>
+<h3 align="center">Python/C++/Pine Script in Trading/Financial Sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackzhao516&label=Profile%20views&color=0e75b6&style=flat" alt="jackzhao516" /> </p>
 
